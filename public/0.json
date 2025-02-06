@@ -1,0 +1,14 @@
+{
+    "name": "Thunder Lance",
+    "description": "Forged in the neon-lit workshops of New Silicon Valley, Thunder Lance emerged as the champion of the Robotic Combat League's jousting division. Originally designed as a maintenance bot for high-voltage power lines, this 800-pound titan found its true calling in the arena. With lightning-quick reflexes powered by quantum processors and a lance crafted from recycled spacecraft titanium, Thunder Lance dominates the field with a perfect blend of medieval valor and cutting-edge technology. Its signature move? The 'Static Shock Strike' - a masterful thrust that crackles with electromagnetic energy.",
+    "image": "https://raw.githubusercontent.com/blockiosaurus/mtn-dao-robot/refs/heads/main/public/0.png",
+    "external_url": "https://github.com/blockiosaurus/mtn-dao-robot",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/blockiosaurus/mtn-dao-robot/refs/heads/main/public/0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
